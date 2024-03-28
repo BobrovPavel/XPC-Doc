@@ -8,16 +8,16 @@
     -webkit-box-shadow: auto; 
     -webkit-border-radius: auto;
     border-radius: auto;
-    background:auto;    
+    background:red;    
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
     -webkit-border-radius:auto;
     border-radius:auto;
-    background:auto; 
+    background:red; 
     -webkit-box-shadow:auto; 
 }
 ::-webkit-scrollbar-thumb:window-inactive {
-    background: auto; 
+    background: red; 
 }
